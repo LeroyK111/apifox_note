@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "eab5f58ef66a89da",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8339511d08b660e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8251589d3e717623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ea9d7aca23951a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aaf5734c1946149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fffbdb0564c420c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc890962162adf1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bb030d747f011d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "297e55c520d8d305",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0bf2076b63624f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a37d0d3f8a098d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d2f9979c3905fd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e1cb449159e49cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e036087abff87b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8251589d3e717623",
+  "lastOpenFiles": [
+    "readme.assets/Pasted image 20230818030221.png",
+    "readme.assets/Pasted image 20230818030011.png",
+    "readme.assets/Pasted image 20230818025955.png",
+    "readme.assets/Pasted image 20230818025850.png",
+    "readme.assets/Pasted image 20230818025653.png",
+    "readme.assets/Pasted image 20230818025226.png",
+    "readme.assets/Pasted image 20230818024739.png",
+    "readme.assets/Pasted image 20230818024515.png",
+    "readme.assets/Pasted image 20230818024420.png",
+    "readme.assets/Pasted image 20230818024216.png",
+    "readme.assets/Pasted image 20230818023810.png",
+    "readme.assets"
+  ]
+}
